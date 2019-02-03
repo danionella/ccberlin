@@ -1,49 +1,133 @@
+<!DOCTYPE html>
 <html>
-<head>
-	 <title>Circuits Club Berlin - Lecture Series About Systems Neuroscience</title> 
-	<link rel ='stylesheet' href='./circuits_club.css'/>
-	<script type="text/javascript">
-    
-    function scrolling(){
-        setTimeout( function () {document.getElementById("page2").scrollIntoView( {block: 'start',behavior:'smooth'});}, 15050);
-    }
-    
-    </script>
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Circuits Club berlin</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="">
+    <link rel="canonical" href="https://circuitsclub.com/">
+
+    <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+    <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
 </head>
-<body>
+    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+     <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <!--button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button-->
+                <a class="navbar-brand page-scroll" href="#page-top">
+                     <span class="light">Circuits Club</span>
+                </a>
+            </div>
 
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                    <!--li>
+                        <a class="page-scroll" href="#download">Download</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li-->
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
 
+        <!-- Intro Header -->
+    <header class="video">
+        <div class="intro-body">
+            <div class="container">
+              <video playsinline autoplay muted >
+              <source src="./180705_circuits_club.mp4" type="video/mp4">
+            </video>
+                <!--div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h1 class="brand-heading">Circuits Club berlin</h1>
+                        <p class="intro-text"><br>
+                        <a href="#about" class="btn btn-circle page-scroll">
+                            <i class="fa fa-angle-double-down animated"></i>
+                        </a>
+                    </div-->
+                </div>
+            </div>
+        </div>
+    </header>
 
-  	<div class="page1">
-  		<video playsinline autoplay muted >
-			<source src="./designs/180705_circuits_club.mp4" type="video/mp4">
-		</video>
-	</div>
+        <!-- About Section -->
+    <section id="about" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Confirmed Speakers</h2>
+                <p>confirmed speaker 2019</p>
+                <p>___________</p>
+                <P> Mathew Diamond - SISSA  </P>
+                <P> Nathalie Rochefort  - University of Edinburgh</P>
+                <P> Michael Halassa - MIT </P>
+                <P> Ian Couzin - MPI / University Konstanz  </P>
+                <P> Kate Jefferey - UCL </P>
 
-   <div class="page2">
-   <img src="./designs/180706_circuitsclub_logo_white.svg">
-   <div id="text_right">
-		<p>confirmed speaker 2019</p>
-		<p>___________</p>
-		<P> Mathew Diamond - SISSA  </P>
-		<P> Nathalie Rochefort  - University of Edinburgh</P>
-		<P> Michael Halassa - MIT </P>
-		<P> Ian Couzin - MPI / University Konstanz  </P>
-		<P> Kate Jefferey - UCL </P>
-	</div>
+            </div>
+        </div>
+    </section>
 
-   <div id="text_left">
-		
-	</div>
+    <!-- NextTalk Section -->
+<section id="nexttalk" class="container nexttalk-section text-center">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+            <h2>Next Talk</h2>
+            Neuronal algorithms for extracting multiple percepts from a single stimulus
+When neuroscientists contemplate the coding of a tactile stimulus, it is natural for us to focus first on how the evoked neuronal activity underlies the perception of stimulus features. But a second percept accompanies the tactile experience – the feeling of time occupied by that stimulus. Logically, the “raw material” for both percepts must be the neuronal representation of the stimulus itself, and from this representation further streams of processing must lead to distinct percepts. We carried out psychophysical experiments in which human subjects and rats judged, on each trial, either the intensity of a vibration or the duration of a vibration. All subjects (both species) showed an interaction between the two percepts: a longer vibration feels stronger in intensity, and stronger feels longer. Further exploration of the interaction between the intensity and duration percepts allowed us to construct a computational framework whereby the vibration-evoked firing early in the processing stream is accumulated by two integrators, in parallel, each integrator giving rise to a distinct percept. Neuronal data from behaving rats seem to support this framework.
+        </div>
+    </div>
+</section>
 
-	
-   </div>
+        <!-- Footer -->
+    <footer>
+        <div class="container text-center">
+            <p>Copyright &copy; Circuits Club Berlin 2019</p>
+        </div>
+    </footer>
 
-   <div class="page3">
-   
-   </div>
+     <!-- jQuery Version 1.11.0 -->
+    <script src="/js/jquery.js"></script>
 
-</div>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/js/bootstrap.min.js"></script>
 
-</body>
+    <!-- Plugin JavaScript -->
+    <script src="/js/jquery.easing.min.js"></script>
+
+    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="/js/grayscale.js"></script>
+    </body>
 </html>
