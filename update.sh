@@ -1,5 +1,6 @@
 
 cd chirpy-starter-main/
+bundle
 bundle exec jekyll b
 cd ../
 
