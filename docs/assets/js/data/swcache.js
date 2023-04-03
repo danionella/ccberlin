@@ -15,6 +15,12 @@ const resource = [
     
         '/speakers/',
     
+        '/archives/',
+    
+        '/tags/',
+    
+        '/categories/',
+    
 
     /* --- Favicons & compressed JS --- */
     
