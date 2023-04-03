@@ -17,10 +17,6 @@ const resource = [
     
         '/content/',
     
-        '/tags/',
-    
-        '/categories/',
-    
 
     /* --- Favicons & compressed JS --- */
     
