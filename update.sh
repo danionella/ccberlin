@@ -1,1 +1,1 @@
-rsync -v chirpy-starter-main/_site/ docs/
+rsync -vr chirpy-starter-main/_site/ docs/

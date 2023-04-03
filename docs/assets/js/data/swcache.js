@@ -41,7 +41,7 @@ const resource = [
 const allowedDomains = [
     
 
-    '',
+    'circuitsclub.com',
 
     
 
