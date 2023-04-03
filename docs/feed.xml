@@ -4,7 +4,7 @@
   <id>circuitsclub.com/</id>
   <title>CC Berlin</title>
   <subtitle>CC Berlin</subtitle>
-  <updated>2023-04-03T22:21:20+02:00</updated>
+  <updated>2023-04-03T22:25:37+02:00</updated>
   <author>
     <name>Circuits Club Berlin</name>
     <uri>circuitsclub.com/</uri>
@@ -17,6 +17,43 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Website Launch</title>
+    <link href="circuitsclub.com/posts/website-launch/" rel="alternate" type="text/html" title="Website Launch" />
+    <published>2023-04-02T18:41:37+02:00</published>
+  
+    <updated>2023-04-02T18:41:37+02:00</updated>
+  
+    <id>circuitsclub.com/posts/website-launch/</id>
+    <content src="circuitsclub.com/posts/website-launch/" />
+    <author>
+      <name>Circuits Club Berlin</name>
+    </author>
+
+  
+    
+    <category term="news" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      News
+
+This is the preliminary CC Berlin website
+
+    </summary>
+  
+
+  </entry>
 
 </feed>
 
