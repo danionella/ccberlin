@@ -15,7 +15,7 @@ const resource = [
     
         '/speakers/',
     
-        '/archives/',
+        '/content/',
     
         '/tags/',
     
