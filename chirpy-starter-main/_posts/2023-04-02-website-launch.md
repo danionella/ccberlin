@@ -7,7 +7,8 @@ tags: [website]     # TAG names should always be lowercase
 
 ## This is the preliminary CC Berlin website.
 
-Comments and suggestions are highly welcome. The previous design can be viewed here: https://ccberlin.github.io/
+Comments and suggestions are highly welcome. The previous design can be viewed here:
+<https://ccberlin.github.io/>
 
 ## Points to discuss: 
 
