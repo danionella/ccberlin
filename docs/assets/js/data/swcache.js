@@ -11,11 +11,11 @@ const resource = [
     '/404.html',
 
     
-        '/about/',
-    
         '/speakers/',
     
         '/content/',
+    
+        '/about/',
     
 
     /* --- Favicons & compressed JS --- */

@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-tag
-order: 2
+order: 1
 ---
 
 * Speaker 1
