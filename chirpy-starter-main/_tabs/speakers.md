@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas people
+icon: people
 order: 1
 ---
 
