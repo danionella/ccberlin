@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: people
+icon: fas fa-chalkboard-teacher
 order: 1
 ---
 
