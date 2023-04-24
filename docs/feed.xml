@@ -1,1 +1,156 @@
-../chirpy-starter-main/_site/feed.xml
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>circuitsclub.com/</id>
+  <title>CC Berlin</title>
+  <subtitle>CC Berlin</subtitle>
+  <updated>2023-04-24T10:54:03+02:00</updated>
+  <author>
+    <name>Circuits Club Berlin</name>
+    <uri>circuitsclub.com/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="circuitsclub.com/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="circuitsclub.com/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Circuits Club Berlin </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Israel Nelken</title>
+    <link href="circuitsclub.com/posts/talks-scheduled/" rel="alternate" type="text/html" title="Israel Nelken" />
+    <published>2023-04-24T00:00:00+02:00</published>
+  
+    <updated>2023-04-24T00:00:00+02:00</updated>
+  
+    <id>circuitsclub.com/posts/talks-scheduled/</id>
+    <content src="circuitsclub.com/posts/talks-scheduled/" />
+    <author>
+      <name>Circuits Club Berlin</name>
+    </author>
+
+  
+    
+    <category term="news" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  Israel Nelken (Department of Neurobiology in the Alexander Silberman Institute of Life Sciences) 
+28th of April 5pm
+“Neural activity in auditory cortex of freely-moving rats”
+at BCCN lecture hall, Philippstraße 13/Haus 6, 10115 Berlin
+
+
+abstract:
+Xiangxiao Liu1 , Matthew D. Loring2 , Luca Zunino2 , Alexandre Bernardino3 , Auke J. Ljspeert1 * &amp;amp; Eva A. Naumann2 * 1 Biorobotics Laboratory, ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Website Launch</title>
+    <link href="circuitsclub.com/posts/Israel-Nelken/" rel="alternate" type="text/html" title="Website Launch" />
+    <published>2023-04-02T13:41:37+02:00</published>
+  
+    <updated>2023-04-02T13:41:37+02:00</updated>
+  
+    <id>circuitsclub.com/posts/Israel-Nelken/</id>
+    <content src="circuitsclub.com/posts/Israel-Nelken/" />
+    <author>
+      <name>Circuits Club Berlin</name>
+    </author>
+
+  
+    
+    <category term="news" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      This is the preliminary CC Berlin website.
+
+Comments and suggestions are highly welcome. The previous design can be viewed here:
+https://ccberlin.github.io/
+
+Points to discuss:
+
+
+  Should we add some social media/contacts to the website? There is an option to do so in the lower left corner.
+  
+    Do we have a logo we would like to use?
+  
+  Israel Nelken (Department of Neurobiology in the Alex...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Website Launch</title>
+    <link href="circuitsclub.com/posts/website-launch/" rel="alternate" type="text/html" title="Website Launch" />
+    <published>2023-04-02T13:41:37+02:00</published>
+  
+    <updated>2023-04-03T23:06:02+02:00</updated>
+  
+    <id>circuitsclub.com/posts/website-launch/</id>
+    <content src="circuitsclub.com/posts/website-launch/" />
+    <author>
+      <name>Circuits Club Berlin</name>
+    </author>
+
+  
+    
+    <category term="news" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      This is the preliminary CC Berlin website.
+
+Comments and suggestions are highly welcome. The previous design can be viewed here:
+https://ccberlin.github.io/
+
+Points to discuss:
+
+
+  Should we add some social media/contacts to the website? There is an option to do so in the lower left corner.
+  Do we have a logo we would like to use?
+
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+

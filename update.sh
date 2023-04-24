@@ -5,11 +5,8 @@ bundle exec jekyll b
 cd ../
 
 rm -rf docs/*
+rsync -vr chirpy-starter-main/_site/ docs/
 echo "circuitsclub.com" > docs/CNAME
-ln -sr chirpy-starter-main/_site/* docs/
-
-#rsync -vr chirpy-starter-main/_site/ docs/
-
 
 git add .
 git commit -m "update site"
