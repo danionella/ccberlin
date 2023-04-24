@@ -7,7 +7,7 @@ cd ../
 ## rm -rf docs/*
 ## echo "circuitsclub.com" > docs/CNAME
 
-rsync -vr chirpy-starter-main/_site/ docs/
+#rsync -vr chirpy-starter-main/_site/ docs/
 
 
 git add .
