@@ -1,5 +1,1 @@
-User-agent: *
-
-Disallow: /norobots/
-
-Sitemap: circuitsclub.com/sitemap.xml
+chirpy-starter-main/_site/robots.txt

@@ -4,10 +4,10 @@ bundle
 bundle exec jekyll b
 cd ../
 
-rm -rf docs/*
+## rm -rf docs/*
 echo "circuitsclub.com" > docs/CNAME
 
-rsync -vr chirpy-starter-main/_site/ docs/
+#rsync -vr chirpy-starter-main/_site/ docs/
 
 
 git add .
