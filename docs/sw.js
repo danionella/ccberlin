@@ -1,1 +1,1 @@
-chirpy-starter-main/_site/sw.js
+../chirpy-starter-main/_site/sw.js

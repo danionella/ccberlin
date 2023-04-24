@@ -4,9 +4,9 @@ bundle
 bundle exec jekyll b
 cd ../
 
-## rm -rf docs/*
-ln -s chirpy-starter-main/_site/* docs/
+rm -rf docs/*
 echo "circuitsclub.com" > docs/CNAME
+ln -sr chirpy-starter-main/_site/* docs/
 
 #rsync -vr chirpy-starter-main/_site/ docs/
 

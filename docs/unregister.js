@@ -1,1 +1,1 @@
-chirpy-starter-main/_site/unregister.js
+../chirpy-starter-main/_site/unregister.js

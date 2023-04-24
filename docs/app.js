@@ -1,1 +1,1 @@
-chirpy-starter-main/_site/app.js
+../chirpy-starter-main/_site/app.js
