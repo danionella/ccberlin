@@ -1,1 +1,5 @@
-chirpy-starter-main/_site/robots.txt
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: circuitsclub.com/sitemap.xml

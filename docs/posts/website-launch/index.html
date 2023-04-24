@@ -39,23 +39,24 @@
   
     <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.3.2" />
-<meta property="og:title" content="CC Berlin" />
+<meta property="og:title" content="Website Launch" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="CC Berlin" />
-<meta property="og:description" content="CC Berlin" />
-<link rel="canonical" href="circuitsclub.com/" />
-<meta property="og:url" content="circuitsclub.com/" />
+<meta name="description" content="This is the preliminary CC Berlin website." />
+<meta property="og:description" content="This is the preliminary CC Berlin website." />
+<link rel="canonical" href="circuitsclub.com/posts/website-launch/" />
+<meta property="og:url" content="circuitsclub.com/posts/website-launch/" />
 <meta property="og:site_name" content="CC Berlin" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-04-02T13:41:37+02:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="CC Berlin" />
+<meta property="twitter:title" content="Website Launch" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"CC Berlin","headline":"CC Berlin","name":"Circuits Club Berlin","url":"circuitsclub.com/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-04-03T23:06:02+02:00","datePublished":"2023-04-02T13:41:37+02:00","description":"This is the preliminary CC Berlin website.","headline":"Website Launch","mainEntityOfPage":{"@type":"WebPage","@id":"circuitsclub.com/posts/website-launch/"},"url":"circuitsclub.com/posts/website-launch/"}</script>
 <!-- End Jekyll SEO tag -->
 
   
 
-  <title>CC Berlin
+  <title>Website Launch | CC Berlin
   </title>
 
   <!--
@@ -107,7 +108,12 @@
   <link rel="stylesheet" href="/assets/css/style.css">
 
   
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tocbot@4.20.1/dist/tocbot.min.css">
+  
 
+  
+    <!-- Manific Popup -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/magnific-popup@1.1.0/dist/magnific-popup.min.css">
   
 
   <!-- JavaScript -->
@@ -267,7 +273,7 @@
   <ul class="w-100">
 
     <!-- home -->
-    <li class="nav-item active">
+    <li class="nav-item">
       <a href="/" class="nav-link">
         <i class="fa-fw fas fa-home ml-xl-3 mr-xl-3 unloaded"></i>
         <span>HOME</span>
@@ -409,8 +415,33 @@
     
 
     
-      <!-- index page -->
-      <span>Home</span>
+
+      
+
+        
+          <span>
+            <a href="/">
+              Home
+            </a>
+          </span>
+
+        
+
+      
+
+        
+
+      
+
+        
+
+          
+            <span>Website Launch</span>
+          
+
+        
+
+      
 
     
 
@@ -419,7 +450,7 @@
     <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
 
     <div id="topbar-title">
-      CC Berlin
+      Post
     </div>
 
     <i id="search-trigger" class="fas fa-search fa-fw"></i>
@@ -453,63 +484,113 @@
     
       
       
-        
+        <!--
+  Refactor the HTML structure.
+-->
+
+
+
+<!--
+  In order to allow a wide table to scroll horizontally,
+  we suround the markdown table with `<div class="table-wrapper">` and `</div>`
+-->
+
+
+
+<!--
+  Fixed kramdown code highlight rendering:
+  https://github.com/penibelst/jekyll-compress-html/issues/101
+  https://github.com/penibelst/jekyll-compress-html/issues/71#issuecomment-188144901
+-->
+
+
+
+<!-- Change the icon of checkbox -->
+
+
+<!-- images -->
 
 
 
 
-<!-- Get pinned posts -->
+
+<!-- Add header for code snippets -->
+
+
+
+<!-- Create heading anchors -->
 
 
 
 
 
-
-<!-- Get default posts -->
-
-
-
-
-
-
-
-
-
-
-<div id="post-list">
   
-    <div class="card post-preview">
-      <a href="/posts/website-launch/">
-        <div class="card-body">
-          <h1 class="card-title">
-            Website Launch
-          </h1>
+  
 
-          <div class="card-text post-content">
-            <p>
-              
+  
+    
+    
+
+    
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+      
+
+      
+
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+
+    
+
+    
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
 
 
 
 
+<!-- return -->
 
-              This is the preliminary CC Berlin website.
+<h1 data-toc-skip>Website Launch</h1>
 
-Comments and suggestions are highly welcome. The previous design can be viewed here:
-https://ccberlin.github.io/
-
-Points to discuss:
-
-
-  Should we add so...
-            </p>
-          </div>
-
-          <div class="post-meta text-muted d-flex">
-            <div class="mr-auto">
-              <!-- posted date -->
-              <i class="far fa-calendar fa-fw"></i>
-              <!--
+<div class="post-meta text-muted">
+    <!-- published date -->
+    <span>
+      Posted
+      <!--
   Date format snippet
   See: ${JS_ROOT}/utils/locale-dateime.js
 -->
@@ -521,87 +602,182 @@ Points to discuss:
 <em class=""
     data-ts="1680435697"
     data-df="ll"
-    >
+    data-toggle="tooltip" data-placement="bottom">
   Apr  2, 2023
 </em>
 
+    </span>
 
-              <!-- categories -->
-              
-                <i class="far fa-folder-open fa-fw"></i>
-                <span>
-                  
-                    news
-                </span>
-              
-            </div>
-
-            
-          </div>
-          <!-- .post-meta -->
-        </div>
-      </a>
-    </div>
-    <!-- .post-review -->
-  
-</div>
-<!-- #post-list -->
-
-
-  <!--
-  The paginator for post list on HomgPage.
+    <!-- lastmod date -->
+    
+    <span>
+      Updated
+      <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
 -->
 
-<ul class="pagination align-items-center mt-4 pl-lg-2">
-  <!-- left arrow -->
-  
 
-  <li class="page-item disabled">
-    <a class="page-link btn-box-shadow" href="#" aria-label="previous-page">
-      <i class="fas fa-angle-left"></i>
-    </a>
-  </li>
 
-  <!-- page numbers -->
-  
-  
 
-  
 
-    
-    
-    
-    
-    
+<em class=""
+    data-ts="1680555962"
+    data-df="ll"
+    data-toggle="tooltip" data-placement="bottom">
+  Apr  3, 2023
+</em>
 
-    
-
-    
-      <!-- show number -->
-      <li class="page-item  active">
-        <a class="page-link btn-box-shadow" href="/">1</a>
-      </li>
+    </span>
     
 
   
 
-  <!-- mobile pagination -->
-  <li class="page-index align-middle">
-    <span>1</span>
-    <span class="text-muted">/ 1</span>
-  </li>
+  <div class="d-flex justify-content-between">
+    <!-- author(s) -->
+    <span>
+      
 
-  <!-- right arrow -->
+      By
+
+      <em>
+      
+        <a href="">Circuits Club Berlin</a>
+      
+      </em>
+    </span>
+
+    <div>
+      <!-- page views -->
+      
+
+      <!-- read time -->
+      <!--
+  Calculate the post's reading time, and display the word count in tooltip
+ -->
+
+
+
+<!-- words per minute  -->
+
+
+
+
+
+
+
+
+
+
+<!-- return element -->
+<span class="readtime" data-toggle="tooltip" data-placement="bottom"
+  title="55 words">
+  <em>1 min</em> read</span>
+
+    </div>
+
+  </div> <!-- .d-flex -->
+
+</div> <!-- .post-meta -->
+
+<div class="post-content">
+  <h2 id="this-is-the-preliminary-cc-berlin-website"><span class="mr-2">This is the preliminary CC Berlin website.</span><a href="#this-is-the-preliminary-cc-berlin-website" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
+
+<p>Comments and suggestions are highly welcome. The previous design can be viewed here:
+<a href="https://ccberlin.github.io/">https://ccberlin.github.io/</a></p>
+
+<h2 id="points-to-discuss"><span class="mr-2">Points to discuss:</span><a href="#points-to-discuss" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
+
+<ul>
+  <li>Should we add some social media/contacts to the website? There is an option to do so in the lower left corner.</li>
+  <li>Do we have a logo we would like to use?</li>
+</ul>
+
+</div>
+
+<div class="post-tail-wrapper text-muted">
+
+  <!-- categories -->
+  
+  <div class="post-meta mb-3">
+    <i class="far fa-folder-open fa-fw mr-1"></i>
+    
+      <a href='/categories/news/'>news</a>
+  </div>
   
 
-  <li class="page-item disabled">
-    <a class="page-link btn-box-shadow" href="#" aria-label="next-page">
-      <i class="fas fa-angle-right"></i>
-    </a>
-  </li>
+  <!-- tags -->
+  
+  <div class="post-tags">
+    <i class="fa fa-tags fa-fw mr-1"></i>
+      
+      <a href="/tags/website/"
+          class="post-tag no-text-decoration" >website</a>
+      
+  </div>
+  
 
-</ul> <!-- .pagination -->
+  <div class="post-tail-bottom
+    d-flex justify-content-between align-items-center mt-3 pt-5 pb-2">
+    <div class="license-wrapper">
 
+      
+
+        
+
+        This post is licensed under 
+        <a href="https://creativecommons.org/licenses/by/4.0/">
+          CC BY 4.0
+        </a>
+         by the author.
+
+      
+    </div>
+
+    <!--
+ Post sharing snippet
+-->
+
+<div class="share-wrapper">
+  <span class="share-label text-muted mr-1">Share</span>
+  <span class="share-icons">
+    
+    
+    
+
+    
+      
+        <a href="https://twitter.com/intent/tweet?text=Website%20Launch%20-%20CC%20Berlin&url=circuitsclub.com%2Fposts%2Fwebsite-launch%2F" data-toggle="tooltip" data-placement="top"
+          title="Twitter" target="_blank" rel="noopener" aria-label="Twitter">
+          <i class="fa-fw fab fa-twitter"></i>
+        </a>
+    
+      
+        <a href="https://www.facebook.com/sharer/sharer.php?title=Website%20Launch%20-%20CC%20Berlin&u=circuitsclub.com%2Fposts%2Fwebsite-launch%2F" data-toggle="tooltip" data-placement="top"
+          title="Facebook" target="_blank" rel="noopener" aria-label="Facebook">
+          <i class="fa-fw fab fa-facebook-square"></i>
+        </a>
+    
+      
+        <a href="https://t.me/share/url?url=circuitsclub.com%2Fposts%2Fwebsite-launch%2F&text=Website%20Launch%20-%20CC%20Berlin" data-toggle="tooltip" data-placement="top"
+          title="Telegram" target="_blank" rel="noopener" aria-label="Telegram">
+          <i class="fa-fw fab fa-telegram"></i>
+        </a>
+    
+
+    <i id="copy-link" class="fa-fw fas fa-link small"
+        data-toggle="tooltip" data-placement="top"
+        title="Copy link"
+        data-title-succeed="Link copied successfully!">
+    </i>
+
+  </span>
+</div>
+
+
+  </div><!-- .post-tail-bottom -->
+
+</div><!-- div.post-tail-wrapper -->
 
 
       
@@ -688,11 +864,104 @@ Points to discuss:
     </div>
 
     
+      
+      
+
+
+
+  <div id="toc-wrapper" class="pl-0 pr-4 mb-5">
+    <div class="panel-heading pl-3 pt-2 mb-2">Contents</div>
+    <nav id="toc"></nav>
+  </div>
+
+  <!-- toc.js will be loaded at medium priority -->
+  <script src="https://cdn.jsdelivr.net/npm/tocbot@4.20.1/dist/tocbot.min.js"></script>
+
+
+    
   </div>
 
 </div>
 
 <!-- tail -->
+
+<div class="row">
+  <div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 pl-3 pr-3 pr-xl-4 mt-5">
+    
+      
+      <!--
+ Recommend the other 3 posts according to the tags and categories of the current post,
+ if the number is not enough, use the other latest posts to supplement.
+-->
+
+<!-- The total size of related posts  -->
+
+
+<!-- An random integer that bigger than 0  -->
+
+
+<!-- Equals to TAG_SCORE / {max_categories_hierarchy}  -->
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+
+
+<!-- Fill with the other newlest posts  -->
+
+
+
+  
+    
+    
+  
+
+
+
+
+    
+      
+      <!--
+  Navigation buttons at the bottom of the post.
+-->
+
+<div class="post-navigation d-flex justify-content-between">
+  
+  <div class="btn btn-outline-primary disabled"
+    prompt="Older">
+    <p>-</p>
+  </div>
+  
+
+  
+  <div class="btn btn-outline-primary disabled"
+    prompt="Newer">
+    <p>-</p>
+  </div>
+  
+
+</div>
+
+    
+      
+      <!--  The comments switcher -->
+
+
+    
+  </div>
+</div>
 
 
       </div>
@@ -845,6 +1114,51 @@ SimpleJekyllSearch({
 <!-- layout specified -->
 
 
+  
+
+
+
+  <!-- image lazy-loading & popup & clipboard -->
+  
+
+  
+
+
+
+
+
+
+
+  
+    
+
+    
+
+  
+
+
+
+  
+    
+
+    
+
+  
+
+
+
+  
+    
+
+    
+
+  
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/combine/npm/magnific-popup@1.1.0/dist/jquery.magnific-popup.min.js,npm/lazysizes@5.3.2/lazysizes.min.js,npm/clipboard@2.0.11/dist/clipboard.min.js"></script>
+
 
 
 
@@ -906,7 +1220,7 @@ SimpleJekyllSearch({
 
 
 
-<script defer src="/assets/js/dist/misc.min.js"></script>
+<script defer src="/assets/js/dist/post.min.js"></script>
 
 
 
