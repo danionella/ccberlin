@@ -4,7 +4,7 @@
   <id>circuitsclub.com/</id>
   <title>CC Berlin</title>
   <subtitle>CC Berlin</subtitle>
-  <updated>2023-04-24T10:55:28+02:00</updated>
+  <updated>2023-04-24T11:50:04+02:00</updated>
   <author>
     <name>Circuits Club Berlin</name>
     <uri>circuitsclub.com/</uri>
@@ -20,53 +20,11 @@
 
   
   <entry>
-    <title>Israel Nelken</title>
-    <link href="circuitsclub.com/posts/talks-scheduled/" rel="alternate" type="text/html" title="Israel Nelken" />
-    <published>2023-04-24T00:00:00+02:00</published>
+    <title>Israel Nelken (28.04.2023 at 17:00)</title>
+    <link href="circuitsclub.com/posts/Israel-Nelken/" rel="alternate" type="text/html" title="Israel Nelken (28.04.2023 at 17:00)" />
+    <published>2023-04-23T12:00:00+02:00</published>
   
-    <updated>2023-04-24T00:00:00+02:00</updated>
-  
-    <id>circuitsclub.com/posts/talks-scheduled/</id>
-    <content src="circuitsclub.com/posts/talks-scheduled/" />
-    <author>
-      <name>Circuits Club Berlin</name>
-    </author>
-
-  
-    
-    <category term="news" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  Israel Nelken (Department of Neurobiology in the Alexander Silberman Institute of Life Sciences) 
-28th of April 5pm
-“Neural activity in auditory cortex of freely-moving rats”
-at BCCN lecture hall, Philippstraße 13/Haus 6, 10115 Berlin
-
-
-abstract:
-Xiangxiao Liu1 , Matthew D. Loring2 , Luca Zunino2 , Alexandre Bernardino3 , Auke J. Ljspeert1 * &amp;amp; Eva A. Naumann2 * 1 Biorobotics Laboratory, ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Website Launch</title>
-    <link href="circuitsclub.com/posts/Israel-Nelken/" rel="alternate" type="text/html" title="Website Launch" />
-    <published>2023-04-02T13:41:37+02:00</published>
-  
-    <updated>2023-04-02T13:41:37+02:00</updated>
+    <updated>2023-04-23T12:00:00+02:00</updated>
   
     <id>circuitsclub.com/posts/Israel-Nelken/</id>
     <content src="circuitsclub.com/posts/Israel-Nelken/" />
@@ -76,8 +34,6 @@ Xiangxiao Liu1 , Matthew D. Loring2 , Luca Zunino2 , Alexandre Bernardino3 , Auk
 
   
     
-    <category term="news" />
-    
   
 
   
@@ -88,19 +44,26 @@ Xiangxiao Liu1 , Matthew D. Loring2 , Luca Zunino2 , Alexandre Bernardino3 , Auk
 
 
 
-      This is the preliminary CC Berlin website.
+      Israel Nelken
+Department of Neurobiology in the Alexander Silberman Institute of Life SciencesJerusalem, Israel
 
-Comments and suggestions are highly welcome. The previous design can be viewed here:
-https://ccberlin.github.io/
+Neural activity in auditory cortex of freely-moving rats
 
-Points to discuss:
+Abstract
+Coming soon.
+
+When and where
+
+The 28th of April, 2023 at 5pm
+
+Bernstein Center for Computational Neuroscience (BCCN),
+Lecture Hall
+Philippstraße 13/Haus 6
+10115 Berlin
 
 
-  Should we add some social media/contacts to the website? There is an option to do so in the lower left corner.
-  
-    Do we have a logo we would like to use?
-  
-  Israel Nelken (Department of Neurobiology in the Alex...
+
+
     </summary>
   
 
@@ -108,21 +71,19 @@ Points to discuss:
 
   
   <entry>
-    <title>Website Launch</title>
-    <link href="circuitsclub.com/posts/website-launch/" rel="alternate" type="text/html" title="Website Launch" />
-    <published>2023-04-02T13:41:37+02:00</published>
+    <title>Vivek Jayaraman (03.07.2023 at 16:30)</title>
+    <link href="circuitsclub.com/posts/Vivek-Jayaraman/" rel="alternate" type="text/html" title="Vivek Jayaraman (03.07.2023 at 16:30)" />
+    <published>2023-04-22T12:00:00+02:00</published>
   
-    <updated>2023-04-03T23:06:02+02:00</updated>
+    <updated>2023-04-22T12:00:00+02:00</updated>
   
-    <id>circuitsclub.com/posts/website-launch/</id>
-    <content src="circuitsclub.com/posts/website-launch/" />
+    <id>circuitsclub.com/posts/Vivek-Jayaraman/</id>
+    <content src="circuitsclub.com/posts/Vivek-Jayaraman/" />
     <author>
       <name>Circuits Club Berlin</name>
     </author>
 
   
-    
-    <category term="news" />
     
   
 
@@ -134,16 +95,177 @@ Points to discuss:
 
 
 
-      This is the preliminary CC Berlin website.
+      Vivek Jayaraman
+Senior Group Leader and Head of Mechanistic Cognitive NeuroscienceJanelia Research Campus, HHMI
 
-Comments and suggestions are highly welcome. The previous design can be viewed here:
-https://ccberlin.github.io/
+Talk Title: TBA
 
-Points to discuss:
+Abstract
+Coming soon.
+
+When and where
+
+The 3rd of July, 2023 at 4:30pm
+
+Bernstein Center for Computational Neuroscience (BCCN),
+Lecture Hall
+Philippstraße 13/Haus 6
+10115 Berlin
 
 
-  Should we add some social media/contacts to the website? There is an option to do so in the lower left corner.
-  Do we have a logo we would like to use?
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Timothy Dunn (11.07.2023 17:30)</title>
+    <link href="circuitsclub.com/posts/Timothy-Dunn/" rel="alternate" type="text/html" title="Timothy Dunn (11.07.2023 17:30)" />
+    <published>2023-04-21T12:00:00+02:00</published>
+  
+    <updated>2023-04-21T12:00:00+02:00</updated>
+  
+    <id>circuitsclub.com/posts/Timothy-Dunn/</id>
+    <content src="circuitsclub.com/posts/Timothy-Dunn/" />
+    <author>
+      <name>Circuits Club Berlin</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Timothy Dunn
+Duke University
+
+Talk Title: TBA
+
+Abstract
+Coming soon.
+
+When and where
+
+The 11th of July, 2023 at 5:30pm
+
+Bernstein Center for Computational Neuroscience (BCCN),
+Lecture Hall
+Philippstraße 13/Haus 6
+10115 Berlin
+
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Jennifer Bizley (12.09.2023 at 17:30)</title>
+    <link href="circuitsclub.com/posts/Jennifer-Bizley/" rel="alternate" type="text/html" title="Jennifer Bizley (12.09.2023 at 17:30)" />
+    <published>2023-04-20T12:00:00+02:00</published>
+  
+    <updated>2023-04-20T12:00:00+02:00</updated>
+  
+    <id>circuitsclub.com/posts/Jennifer-Bizley/</id>
+    <content src="circuitsclub.com/posts/Jennifer-Bizley/" />
+    <author>
+      <name>Circuits Club Berlin</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Jennifer Bizley
+Wellcome Trust / Royal Society Sir Henry Dale Fellowship holder and Professor of Auditory Neuroscience at UCL Ear Institute
+
+Talk Title: TBA
+
+Abstract
+Coming soon.
+
+When and where
+
+The 12th of September, 2023 at 5:30pm
+
+Bernstein Center for Computational Neuroscience (BCCN),
+Lecture Hall
+Philippstraße 13/Haus 6
+10115 Berlin
+
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Eva Naumann (11.07.2023 16:00)</title>
+    <link href="circuitsclub.com/posts/Eva-Naumann/" rel="alternate" type="text/html" title="Eva Naumann (11.07.2023 16:00)" />
+    <published>2023-04-20T12:00:00+02:00</published>
+  
+    <updated>2023-04-20T12:00:00+02:00</updated>
+  
+    <id>circuitsclub.com/posts/Eva-Naumann/</id>
+    <content src="circuitsclub.com/posts/Eva-Naumann/" />
+    <author>
+      <name>Circuits Club Berlin</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Eva Naumann
+Duke University
+
+Talk Title: Neuromechanical simulations of the zebrafish optomotor response
+
+Abstract
+Coming soon.
+
+When and where
+
+The 11th of July, 2023 at 4pm
+
+Bernstein Center for Computational Neuroscience (BCCN),
+Lecture Hall
+Philippstraße 13/Haus 6
+10115 Berlin
+
+
 
 
     </summary>
