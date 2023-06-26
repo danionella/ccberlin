@@ -4,7 +4,7 @@
   <id>circuitsclub.com/</id>
   <title>CC Berlin</title>
   <subtitle>CC Berlin</subtitle>
-  <updated>2023-06-26T19:59:26+02:00</updated>
+  <updated>2023-06-26T20:27:12+02:00</updated>
   <author>
     <name>Circuits Club Berlin</name>
     <uri>circuitsclub.com/</uri>
@@ -24,7 +24,7 @@
     <link href="circuitsclub.com/posts/Israel-Nelken/" rel="alternate" type="text/html" title="<center><small><span style="color:#F87217;"><b>April 28th 2023 at 17:00</small></span><br><br>Israel Nelken</b><br><i>Neural activity in auditory cortex of freely-moving rats</i></center><br>" />
     <published>2023-04-23T12:00:00+02:00</published>
   
-    <updated>2023-04-23T12:00:00+02:00</updated>
+    <updated>2023-06-26T19:59:26+02:00</updated>
   
     <id>circuitsclub.com/posts/Israel-Nelken/</id>
     <content src="circuitsclub.com/posts/Israel-Nelken/" />
@@ -69,7 +69,7 @@ Philippstraße 13/Haus 6
     <link href="circuitsclub.com/posts/Vivek-Jayaraman/" rel="alternate" type="text/html" title="<center><small><span style="color:#F87217;"><b>July 3rd 2023 at 16:30</small></span><br><br>Vivek Jayaraman</b><br><i>Structural priors for flexible goal-directed navigation</i></center><br>" />
     <published>2023-04-22T12:00:00+02:00</published>
   
-    <updated>2023-04-22T12:00:00+02:00</updated>
+    <updated>2023-06-26T19:59:26+02:00</updated>
   
     <id>circuitsclub.com/posts/Vivek-Jayaraman/</id>
     <content src="circuitsclub.com/posts/Vivek-Jayaraman/" />
@@ -102,7 +102,7 @@ Relatively unstructured artificial networks can be trained over millions of tria
     <link href="circuitsclub.com/posts/Eva-Naumann/" rel="alternate" type="text/html" title="<center><small><span style="color:#F87217;"><b>July 17th 2023 at 16:30</small></span><br><br>Eva Naumann</b><br><i>Neuromechanical simulations of the zebrafish optomotor response</i></center><br>" />
     <published>2023-04-21T12:00:00+02:00</published>
   
-    <updated>2023-04-21T12:00:00+02:00</updated>
+    <updated>2023-06-26T19:59:26+02:00</updated>
   
     <id>circuitsclub.com/posts/Eva-Naumann/</id>
     <content src="circuitsclub.com/posts/Eva-Naumann/" />
@@ -135,7 +135,7 @@ To better understand the neural and biomechanical mechanisms of visuomotor behav
     <link href="circuitsclub.com/posts/Jennifer-Bizley/" rel="alternate" type="text/html" title="<center><small><span style="color:#F87217;"><b>September 12th 2023 at 17:30</small></span><br><br>Jennifer Bizley</b><br><i>Mapping sounds into space</i></center><br>" />
     <published>2023-04-20T12:00:00+02:00</published>
   
-    <updated>2023-04-20T12:00:00+02:00</updated>
+    <updated>2023-06-26T19:59:26+02:00</updated>
   
     <id>circuitsclub.com/posts/Jennifer-Bizley/</id>
     <content src="circuitsclub.com/posts/Jennifer-Bizley/" />
@@ -173,42 +173,6 @@ Philippstraße 13/Haus 6
 
 
 
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Website Launch</title>
-    <link href="circuitsclub.com/posts/website-launch/" rel="alternate" type="text/html" title="Website Launch" />
-    <published>2023-04-02T13:41:37+02:00</published>
-  
-    <updated>2023-04-24T11:50:05+02:00</updated>
-  
-    <id>circuitsclub.com/posts/website-launch/</id>
-    <content src="circuitsclub.com/posts/website-launch/" />
-    <author>
-      <name>Circuits Club Berlin</name>
-    </author>
-
-  
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      The first version of CC Berlin website (2023) appears online.
-
-Comments and suggestions are highly welcome. The previous design can be viewed here:
-https://ccberlin.github.io/
 
     </summary>
   
