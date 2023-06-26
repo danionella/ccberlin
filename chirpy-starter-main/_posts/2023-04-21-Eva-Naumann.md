@@ -1,16 +1,15 @@
 ---
-title: Eva Naumann (11.07.2023 16:00)
-date: 2023-04-20 10:00:00 +0000
+title: <center><small><span style="color:#F87217;"><b>July 17th 2023 at 16:30</small></span><br><br>Eva Naumann</b><br><i>Neuromechanical simulations of the zebrafish optomotor response</i></center><br>
+date: 2023-04-21 10:00:00 +0000
 #categories: [news]
 tags: [speaker]     # TAG names should always be lowercase
 ---
-# Eva Naumann
+**Abstract:**<br>
+To better understand the neural and biomechanical mechanisms of visuomotor behaviors and build intelligent, animal-like machines that can navigate autonomously, we leveraged the rich experimental background on optomotor responses in larval zebrafish. By constructing realistic, neuromechanical simulations of a zebrafish-larva inspired robot that reproduce the visual environment, body features, and water interactions and implements experimentally derived neural architectures, we could closely replicate the optomotor response of real larval zebrafish. Analysis of these simulations provided new insights into the required network components and demonstrated how complex visual stimuli can be processed within a few layers of a biologically constrained neural network to compute output closely resembling in vivo behavior. Furthermore, the robotic simulation predicted specific motor output for a set of visual stimuli that rarely occur in real life. While these stimuli resulted in unexpected behavioral responses in real fish, the robotic simulation allowed us to predict the importance of neurons with specific responses to these stimuli, which we could indeed identify via calcium imaging in the brain of real zebrafish. Together, these simulations allow us to rapidly switch between modeling, behavioural and neural measurements to iteratively approximate more realistic neural circuit models.
+
+### Eva Naumann is a Group Leader at the Duke Institute for Brain Sciences, USA.
 ***Duke University***
 
-## Talk Title: Neuromechanical simulations of the zebrafish optomotor response
-
-**Abstract**<br>
-Coming soon.
 
 ## When and where
 

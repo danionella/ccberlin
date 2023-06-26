@@ -1,17 +1,11 @@
 ---
-title: Israel Nelken (28.04.2023 at 17:00)
+title: <center><small><span style="color:#F87217;"><b>April 28th 2023 at 17:00</small></span><br><br>Israel Nelken</b><br><i>Neural activity in auditory cortex of freely-moving rats</i></center><br>
 date: 2023-04-23 10:00:00 +0000
 #categories: [news]
 tags: [speaker]     # TAG names should always be lowercase
 ---
 
-# Israel Nelken
-***Department of Neurobiology in the Alexander Silberman Institute of Life Sciences<br>Jerusalem, Israel***
-
-## Neural activity in auditory cortex of freely-moving rats
-
-**Abstract**<br>
-Coming soon.
+### Department of Neurobiology in the Alexander Silberman Institute of Life Sciences<br>Jerusalem, Israel
 
 ## When and where
 

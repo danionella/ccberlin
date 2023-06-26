@@ -1,16 +1,16 @@
 ---
-title: Vivek Jayaraman (03.07.2023 at 16:30)
+title: <center><small><span style="color:#F87217;"><b>July 3rd 2023 at 16:30</small></span><br><br>Vivek Jayaraman</b><br><i>Structural priors for flexible goal-directed navigation</i></center><br>
 date: 2023-04-22 10:00:00 +0000
 #categories: [news]
 tags: [speaker]     # TAG names should always be lowercase
 ---
-# Vivek Jayaraman
-***Senior Group Leader and Head of Mechanistic Cognitive Neuroscience<br>Janelia Research Campus, HHMI***
+**Abstract:**<br>
+Relatively unstructured artificial networks can be trained over millions of trials to perform specific flexible behaviors, but it is notable that many animals adapt their behavior to changing cues, contexts and goals with barely any experience. I will use a combination of behavioral, physiological and connectomic evidence from the fly, *Drosophila melanogaster*, to highlight how the modularity and structure of its neural networks enable the animal to quickly generate and modify internal representations to achieve rapid flexibility in navigation.
 
-## Talk Title: TBA
+******
 
-**Abstract**<br>
-Coming soon.
+### Vivek Jayaraman is a Senior Group Leader and Head of Mechanistic Cognitive Neuroscience Janelia Research Campus, HHMI, USA.
+
 
 ## When and where
 

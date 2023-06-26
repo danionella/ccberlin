@@ -1,0 +1,122 @@
+/* montserrat-regular - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/montserrat-v14-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Montserrat Regular'), local('Montserrat-Regular'),
+       url('../fonts/montserrat-v14-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/montserrat-v14-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/montserrat-v14-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/montserrat-v14-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/montserrat-v14-latin-regular.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+:target:before {
+	content: "";
+	display: block;
+	height: 20vh;
+	margin: -20vh 0 0;
+}
+
+
+body {
+  font-size: 100%;
+  font-weight: normal;
+  font-family:"Montserrat","HelveticaNeue-Light","Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  color: #ffffff;
+  background-color: #1B147C;
+  text-align: center
+}
+
+h1{
+  text-transform: uppercase;
+  font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-align: center;
+  letter-spacing: 10px;
+
+}
+
+div {
+ text-color=#FFFFFF;
+}
+
+
+
+
+.abstract{
+  text-align: justify
+}
+
+.next_date{
+  font-style: italic;
+}
+
+.top-bar, .top-bar ul{
+    background-color: #1B147C;
+
+
+}
+
+.top-left{
+    background-color: #1B147C;
+}
+
+.top-right{
+    background-color: #1B147C;
+}
+
+.dropdown-menu ul li a li.is-active{
+      background-color: #1B147C;
+      border-color: #FB3A3F
+  }
+
+.top-bar ul{
+    background-color: #1B147C;
+  }
+
+  .dropdown.menu > li.is-dropdown-submenu-parent > a::after{
+    border-color:#FB3A3F transparent transparent;
+  }
+
+
+#logo{
+  height:5rem;
+  color: #ffffff;
+
+}
+
+
+#tile1 {
+  background-color: #1B147C;
+  min-height: 100vh;
+  padding-top: 20vh;
+}
+
+#tile2 {
+background-color: #FB3A3F;
+min-height: 100vh;
+padding-top: 20vh;
+
+}
+#tile0 {
+background-color: transparent;
+
+}
+
+
+#headervid{
+
+  width:100%;
+  height:auto;
+
+
+}
+
+#menua{
+    color: #ffffff;
+    font-family:"Montserrat","HelveticaNeue-Light","Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+}

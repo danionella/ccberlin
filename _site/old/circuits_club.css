@@ -1,0 +1,64 @@
+htmli, body, {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+  width:60%;
+  height:60%;
+  display: inline;
+  margin-right: auto;
+  margin-left: 0; 
+  }
+
+video {
+  width:100%;
+  height:100%;
+  display: inline;
+  margin-right: 0;
+  margin-left: 0; 
+  }
+
+
+
+.page1, .page2, .page3 {
+    width: 100%;
+    height: 100%;
+    display: block;
+    vertical-align: left; /* this line added in edit */
+    font-size: initial;
+}
+.page1 {
+    background: #1B147C;
+}
+.page2 {
+    background: #1B147C;
+}
+.page3 {
+    background: #FB3A3F;
+}
+
+ #text_left{
+    width: 50%;
+    float:left;
+    display: inline;
+    font-size: 100%;
+    font-family: "HelveticaNeue-Light","Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: normal;      
+    color: #ffffff;
+    padding-left: 20%
+    }
+
+    #text_right{
+    float: right;
+    display: inline;
+    font-size: 120%;
+    font-family: "HelveticaNeue-Light","Helvetica Neue Light", "Helvetica Neue", Helvetica, "Lucida Grande", sans-serif; 
+    font-weight: normal;      
+    padding-right: 10%;
+    padding-top:20%;   
+    padding-bottom:10%;     
+    color: #ffffff;
+    }

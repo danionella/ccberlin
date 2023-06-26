@@ -1,16 +1,16 @@
 ---
-title: Jennifer Bizley (12.09.2023 at 17:30)
+title: <center><small><span style="color:#F87217;"><b>September 12th 2023 at 17:30</small></span><br><br>Jennifer Bizley</b><br><i>Mapping sounds into space</i></center><br>
 date: 2023-04-20 10:00:00 +0000
 #categories: [news]
 tags: [speaker]     # TAG names should always be lowercase
 ---
-# Jennifer Bizley
-***Wellcome Trust / Royal Society Sir Henry Dale Fellowship holder and Professor of Auditory Neuroscience at UCL Ear Institute***
+**Abstract**<br>
+Coming soon.
+
+### Jennifer Bizley is Wellcome Trust / Royal Society Sir Henry Dale Fellowship holder and Professor of Auditory Neuroscience at UCL Ear Institute
 
 ## Talk Title: TBA
 
-**Abstract**<br>
-Coming soon.
 
 ## When and where
 
