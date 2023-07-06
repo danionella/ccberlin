@@ -1,7 +1,7 @@
 [
   
   {
-    "title": "Israel Nelken (28.04.2023 at 17:00)",
+    "title": "<center><small><span style=\"color:#F87217;\"><b>April 28th 2023 at 17:00</small></span><br><br>Israel Nelken</b><br><i>Neural activity in auditory cortex of freely-moving rats</i></center><br>",
     "url": "/posts/Israel-Nelken/",
     "categories": "",
     "tags": "speaker",
@@ -13,12 +13,12 @@
 
 
     
-    "snippet": "Israel NelkenDepartment of Neurobiology in the Alexander Silberman Institute of Life SciencesJerusalem, IsraelNeural activity in auditory cortex of freely-moving ratsAbstractComing soon.When and wh...",
-    "content": "Israel NelkenDepartment of Neurobiology in the Alexander Silberman Institute of Life SciencesJerusalem, IsraelNeural activity in auditory cortex of freely-moving ratsAbstractComing soon.When and whereThe 28th of April, 2023 at 5pmBernstein Center for Computational Neuroscience (BCCN),Lecture HallPhilippstraße 13/Haus 610115 Berlin"
+    "snippet": "Department of Neurobiology in the Alexander Silberman Institute of Life SciencesJerusalem, IsraelWhen and whereThe 28th of April, 2023 at 5pmBernstein Center for Computational Neuroscience (BCCN),L...",
+    "content": "Department of Neurobiology in the Alexander Silberman Institute of Life SciencesJerusalem, IsraelWhen and whereThe 28th of April, 2023 at 5pmBernstein Center for Computational Neuroscience (BCCN),Lecture HallPhilippstraße 13/Haus 610115 Berlin"
   },
   
   {
-    "title": "Vivek Jayaraman (03.07.2023 at 16:30)",
+    "title": "<center><small><span style=\"color:#F87217;\"><b>July 3rd 2023 at 16:30</small></span><br><br>Vivek Jayaraman</b><br><i>Structural priors for flexible goal-directed navigation</i></center><br>",
     "url": "/posts/Vivek-Jayaraman/",
     "categories": "",
     "tags": "speaker",
@@ -30,13 +30,13 @@
 
 
     
-    "snippet": "Vivek JayaramanSenior Group Leader and Head of Mechanistic Cognitive NeuroscienceJanelia Research Campus, HHMITalk Title: TBAAbstractComing soon.When and whereThe 3rd of July, 2023 at 4:30pmBernste...",
-    "content": "Vivek JayaramanSenior Group Leader and Head of Mechanistic Cognitive NeuroscienceJanelia Research Campus, HHMITalk Title: TBAAbstractComing soon.When and whereThe 3rd of July, 2023 at 4:30pmBernstein Center for Computational Neuroscience (BCCN),Lecture HallPhilippstraße 13/Haus 610115 Berlin"
+    "snippet": "Abstract:Relatively unstructured artificial networks can be trained over millions of trials to perform specific flexible behaviors, but it is notable that many animals adapt their behavior to chang...",
+    "content": "Abstract:Relatively unstructured artificial networks can be trained over millions of trials to perform specific flexible behaviors, but it is notable that many animals adapt their behavior to changing cues, contexts and goals with barely any experience. I will use a combination of behavioral, physiological and connectomic evidence from the fly, Drosophila melanogaster, to highlight how the modularity and structure of its neural networks enable the animal to quickly generate and modify internal representations to achieve rapid flexibility in navigation.Vivek Jayaraman is a Senior Group Leader and Head of Mechanistic Cognitive Neuroscience Janelia Research Campus, HHMI, USA.When and whereThe 3rd of July, 2023 at 4:30pmBernstein Center for Computational Neuroscience (BCCN),Lecture HallPhilippstraße 13/Haus 610115 Berlin"
   },
   
   {
-    "title": "Timothy Dunn (11.07.2023 17:30)",
-    "url": "/posts/Timothy-Dunn/",
+    "title": "<center><small><span style=\"color:#F87217;\"><b>July 17th 2023 at 16:30</small></span><br><br>Eva Naumann</b><br><i>Neuromechanical simulations of the zebrafish optomotor response</i></center><br>",
+    "url": "/posts/Eva-Naumann/",
     "categories": "",
     "tags": "speaker",
     "date": "2023-04-21 12:00:00 +0200",
@@ -47,12 +47,12 @@
 
 
     
-    "snippet": "Timothy DunnDuke UniversityTalk Title: TBAAbstractComing soon.When and whereThe 11th of July, 2023 at 5:30pmBernstein Center for Computational Neuroscience (BCCN),Lecture HallPhilippstraße 13/Haus ...",
-    "content": "Timothy DunnDuke UniversityTalk Title: TBAAbstractComing soon.When and whereThe 11th of July, 2023 at 5:30pmBernstein Center for Computational Neuroscience (BCCN),Lecture HallPhilippstraße 13/Haus 610115 Berlin"
+    "snippet": "Abstract:To better understand the neural and biomechanical mechanisms of visuomotor behaviors and build intelligent, animal-like machines that can navigate autonomously, we leveraged the rich exper...",
+    "content": "Abstract:To better understand the neural and biomechanical mechanisms of visuomotor behaviors and build intelligent, animal-like machines that can navigate autonomously, we leveraged the rich experimental background on optomotor responses in larval zebrafish. By constructing realistic, neuromechanical simulations of a zebrafish-larva inspired robot that reproduce the visual environment, body features, and water interactions and implements experimentally derived neural architectures, we could closely replicate the optomotor response of real larval zebrafish. Analysis of these simulations provided new insights into the required network components and demonstrated how complex visual stimuli can be processed within a few layers of a biologically constrained neural network to compute output closely resembling in vivo behavior. Furthermore, the robotic simulation predicted specific motor output for a set of visual stimuli that rarely occur in real life. While these stimuli resulted in unexpected behavioral responses in real fish, the robotic simulation allowed us to predict the importance of neurons with specific responses to these stimuli, which we could indeed identify via calcium imaging in the brain of real zebrafish. Together, these simulations allow us to rapidly switch between modeling, behavioural and neural measurements to iteratively approximate more realistic neural circuit models.Eva Naumann is a Group Leader at the Duke Institute for Brain Sciences, USA.Duke UniversityWhen and whereThe 11th of July, 2023 at 4pmBernstein Center for Computational Neuroscience (BCCN),Lecture HallPhilippstraße 13/Haus 610115 Berlin"
   },
   
   {
-    "title": "Jennifer Bizley (12.09.2023 at 17:30)",
+    "title": "<center><small><span style=\"color:#F87217;\"><b>September 12th 2023 at 17:30</small></span><br><br>Jennifer Bizley</b><br><i>Mapping sounds into space</i></center><br>",
     "url": "/posts/Jennifer-Bizley/",
     "categories": "",
     "tags": "speaker",
@@ -64,42 +64,8 @@
 
 
     
-    "snippet": "Jennifer BizleyWellcome Trust / Royal Society Sir Henry Dale Fellowship holder and Professor of Auditory Neuroscience at UCL Ear InstituteTalk Title: TBAAbstractComing soon.When and whereThe 12th o...",
-    "content": "Jennifer BizleyWellcome Trust / Royal Society Sir Henry Dale Fellowship holder and Professor of Auditory Neuroscience at UCL Ear InstituteTalk Title: TBAAbstractComing soon.When and whereThe 12th of September, 2023 at 5:30pmBernstein Center for Computational Neuroscience (BCCN),Lecture HallPhilippstraße 13/Haus 610115 Berlin"
-  },
-  
-  {
-    "title": "Eva Naumann (11.07.2023 16:00)",
-    "url": "/posts/Eva-Naumann/",
-    "categories": "",
-    "tags": "speaker",
-    "date": "2023-04-20 12:00:00 +0200",
-    
-
-
-
-
-
-    
-    "snippet": "Eva NaumannDuke UniversityTalk Title: Neuromechanical simulations of the zebrafish optomotor responseAbstractComing soon.When and whereThe 11th of July, 2023 at 4pmBernstein Center for Computationa...",
-    "content": "Eva NaumannDuke UniversityTalk Title: Neuromechanical simulations of the zebrafish optomotor responseAbstractComing soon.When and whereThe 11th of July, 2023 at 4pmBernstein Center for Computational Neuroscience (BCCN),Lecture HallPhilippstraße 13/Haus 610115 Berlin"
-  },
-  
-  {
-    "title": "Website Launch",
-    "url": "/posts/website-launch/",
-    "categories": "",
-    "tags": "",
-    "date": "2023-04-02 13:41:37 +0200",
-    
-
-
-
-
-
-    
-    "snippet": "The first version of CC Berlin website (2023) appears online.Comments and suggestions are highly welcome. The previous design can be viewed here:https://ccberlin.github.io/",
-    "content": "The first version of CC Berlin website (2023) appears online.Comments and suggestions are highly welcome. The previous design can be viewed here:https://ccberlin.github.io/"
+    "snippet": "AbstractComing soon.Jennifer Bizley is Wellcome Trust / Royal Society Sir Henry Dale Fellowship holder and Professor of Auditory Neuroscience at UCL Ear InstituteTalk Title: TBAWhen and whereThe 12...",
+    "content": "AbstractComing soon.Jennifer Bizley is Wellcome Trust / Royal Society Sir Henry Dale Fellowship holder and Professor of Auditory Neuroscience at UCL Ear InstituteTalk Title: TBAWhen and whereThe 12th of September, 2023 at 5:30pmBernstein Center for Computational Neuroscience (BCCN),Lecture HallPhilippstraße 13/Haus 610115 Berlin"
   }
   
 ]

@@ -11,8 +11,6 @@ const resource = [
     '/404.html',
 
     
-        '/updates/',
-    
         '/about/',
     
 
